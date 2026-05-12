@@ -102,8 +102,8 @@ AWS cloud infrastructure was used for data storage, monitoring, and visualizatio
 
 My primary contributions focused on Tier 1 and Tier 2 of the project, including:
 
-- Assisting with AWS EC2 instance setup and configuration
-- Installing required client and server software components
+- Setting up and configuring AWS EC2 infrastructure and supporting software components for cloud-based data processing and monitoring
+- Installing and configuring required client and server software components
 - Supporting Raspberry Pi integration and connectivity
 - Assisting with infrastructure setup for cloud-based monitoring
 - Contributing to end-to-end system integration and testing
